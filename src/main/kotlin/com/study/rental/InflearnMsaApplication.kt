@@ -1,4 +1,4 @@
-package com.study.inflearn_msa
+package com.study.rental
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
@@ -7,5 +7,5 @@ import org.springframework.boot.runApplication
 class InflearnMsaApplication
 
 fun main(args: Array<String>) {
-	runApplication<InflearnMsaApplication>(*args)
+    runApplication<InflearnMsaApplication>(*args)
 }
