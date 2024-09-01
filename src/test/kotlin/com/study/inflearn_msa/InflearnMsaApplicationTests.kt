@@ -9,5 +9,4 @@ class InflearnMsaApplicationTests {
 	@Test
 	fun contextLoads() {
 	}
-
 }
